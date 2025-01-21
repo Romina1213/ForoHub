@@ -19,3 +19,4 @@ Se requiere Postman o Insomnia para probar las solicitudes HTTP en formato JSON.
 - MySql
 - Maven
 - Imsomnia
+- Postman
